@@ -1,5 +1,5 @@
-package MongoDatabase
-import MongoDatabase.Helpers._
+package MongoData
+import MongoData.Helpers._
 import org.mongodb.scala._
 
 import org.mongodb.scala.model.Filters._

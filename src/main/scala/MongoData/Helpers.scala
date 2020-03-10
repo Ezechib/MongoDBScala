@@ -1,4 +1,4 @@
-package MongoDatabase
+package MongoData
 
 import java.util.concurrent.TimeUnit
 
